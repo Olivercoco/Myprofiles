@@ -1,0 +1,14 @@
+payload:
+  # > Microsoft
+  - DOMAIN-SUFFIX,hotmail.com
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,msecnd.net
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,s-microsoft.com
+  - DOMAIN-SUFFIX,visualstudio.com
+  # > PayPal
+  # USER-AGENT,PayPal*
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,paypal.me
+  - DOMAIN-SUFFIX,paypalobjects.com
