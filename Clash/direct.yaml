@@ -1,3 +1,2 @@
 payload:
-  - DOMAIN,us.eliio.xyz
   - IP-CIDR,141.101.122.2/32,DIRECT,no-resolve
