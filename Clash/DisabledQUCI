@@ -1,0 +1,6 @@
+script:
+  code: |
+    def main(ctx, metadata): 
+      if (metadata["network"] == "UDP" and (metadata["dst_port"] == 80 or metadata["dst_port"] == 443)):
+        ctx.log('[Script] matched QUIC traffic use reject')
+        return "REJECT"
