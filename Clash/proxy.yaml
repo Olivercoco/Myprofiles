@@ -27,7 +27,7 @@ payload:
   - DOMAIN,alt7-mtalk.google.com
   - DOMAIN,alt8-mtalk.google.com
   # >> Microsoft
-  - DOMAIN,  
+  - DOMAIN,officecdn.microsoft.com
   - DOMAIN-SUFFIX,emby.wtf
   
 
