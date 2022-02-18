@@ -28,7 +28,10 @@ payload:
   - DOMAIN,alt8-mtalk.google.com
   # >> Microsoft
   - DOMAIN,officecdn.microsoft.com
+  # >> Other
   - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,nike.com
+  
   
 
 
