@@ -1,5 +1,5 @@
 payload:
-  # > Google
+  # Google
   - DOMAIN-SUFFIX,blog.google
   - DOMAIN-SUFFIX,googletraveladservices.com
   - DOMAIN,clientservices.googleapis.com
@@ -8,27 +8,23 @@ payload:
   - DOMAIN,update.googleapis.com
   - DOMAIN,translate.googleapis.com
   - DOMAIN,dns.google
-  # > PayPal
+  # PayPal
   # USER-AGENT,PayPal*
   - DOMAIN-SUFFIX,paypal.com
   - DOMAIN-SUFFIX,paypal.me
   - DOMAIN-SUFFIX,paypalobjects.com
-  # >> Google Fonts API
+  # Google Fonts API
   - DOMAIN,fonts.googleapis.com
   - DOMAIN,fonts.gstatic.com
-  # >> Firebase Cloud Messaging
-  - DOMAIN,mtalk.google.com
-  - DOMAIN,alt1-mtalk.google.com
-  - DOMAIN,alt2-mtalk.google.com
-  - DOMAIN,alt3-mtalk.google.com
-  - DOMAIN,alt4-mtalk.google.com
-  - DOMAIN,alt5-mtalk.google.com
-  - DOMAIN,alt6-mtalk.google.com
-  - DOMAIN,alt7-mtalk.google.com
-  - DOMAIN,alt8-mtalk.google.com
-  # >> Microsoft
+  # Microsoft
   - DOMAIN,officecdn.microsoft.com
-  # >> Other
+  # Microsoft Teams
+  - DOMAIN-SUFFIX,teams.cdn.live.net
+  - DOMAIN-SUFFIX,teams.live.com
+  - DOMAIN-SUFFIX,teams.microsoft.com
+  - DOMAIN,teams.events.data.microsoft.com
+  #- DOMAIN,statics.teams.cdn.office.net
+  # Other
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,nike.com
   
