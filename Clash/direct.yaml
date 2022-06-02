@@ -1,2 +1,2 @@
 payload:
-#
+- IP-CIDR,104.24.163.121/32,DIRECT,no-resolve
